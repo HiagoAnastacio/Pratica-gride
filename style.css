@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Gilroy Light';
-    src: url(/gilroy-free/Gilroy-FREE/Gilroy-Light.otf);
+    src: url(/Gilroy-Light.otf);
     font-weight: 300;
 }
 @font-face {
     font-family: 'Gilroy EB';
-    src: url(/gilroy-free/Gilroy-FREE/Gilroy-ExtraBold.otf);
+    src: url(/Gilroy-ExtraBold.otf);
     font-weight: 700;
 }
 *{
